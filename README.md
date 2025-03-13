@@ -1,4 +1,4 @@
-# HPC (High-Performance Computing)
+# High-Performance Computing
 
 Ce cours explore les concepts du calcul haute performance, permettant d’accélérer des applications en exploitant le parallélisme et les infrastructures distribuées.
 
